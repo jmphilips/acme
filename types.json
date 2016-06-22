@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+        	"id": 1,
+        	"category": 0,
+        	"name": "destructive",
+        	"description": "Fireworks that look fun but are meant to hurt"
+        },
+        {
+        	"id": 2,
+        	"category": 0,
+        	"name": "drones",
+        	"description": "Drones on and on"
+        },
+        {
+        	"id": 3,
+        	"category": 1,
+        	"name": "fiery",
+            "description": "When you are engulfed in Flames"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "boomy",
+            "description": "boom goes the dyamite"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "explody",
+            "description": "Explosions; in the sky"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+         "firecrackers": {
+            "id": 1,
+            "type": 0,
+            "name": "Firecrackers",
+            "description": "Cheap bangs."
+        },
+         "bottle_rockets": {
+            "id": 2,
+            "type": 0,
+            "name": "Bottle Rockets",
+            "description": "Bottle sized rockets."
+        },
+         "dwarf_sparklers": {
+            "id": 3,
+            "type": 1,
+            "name": "Dwarf Sparklers",
+            "description": "Strong spark, but not very big."
+        },
+         "flamecrackers": {
+            "id": 4,
+            "type": 1,
+            "name": "Flamecrackers",
+            "description": "Cheap big bangs."
+        },
+         "can_rockets": {
+            "id": 5,
+            "type": 1,
+            "name": "Can Rockets",
+            "description": "Bigger than a bottle."
+        },
+         "drone_sparklers": {
+            "id": 6,
+            "type": 2,
+            "name": "Drone Sparklers",
+            "description": "Remote Control your sparklers."
+        },
+         "dronecrackers": {
+            "id": 7,
+            "type": 2,
+            "name": "Drone Crackers",
+            "description": "Drones that crack on their own."
+        },
+         "drone_rockets": {
+            "id": 8,
+            "type": 2,
+            "name": "Drone Rockets",
+            "description": "Rockets that go on their own."
+        },
+         "fiery_sparklers": {
+            "id": 9,
+            "type": 3,
+            "name": "Fiery Sparklers",
+            "description": "More fiery than yo daddys."
+        },
+         "fierycrackers": {
+            "id": 10,
+            "type": 3,
+            "name": "Fiery Crackers",
+            "description": "These crackers got sum fires."
+        },
+         "fiery_rockets": {
+            "id": 11,
+            "type": 3,
+            "name": "Fiery rockets",
+            "description": "Rockets that make fire."
+        },
+         "boomy_sparklers": {
+            "id": 12,
+            "type": 4,
+            "name": "Boomy Sparklers",
+            "description": "Sparklers that go boom."
+        },
+         "boomcrackers": {
+            "id": 13,
+            "type": 4,
+            "name": "Boomcrackers",
+            "description": "Crackers that go boom."
+        },
+         "boomrockets": {
+            "id": 14,
+            "type": 4,
+            "name": "Boomrockets",
+            "description": "Here comes the boom."
+        },
+         "explo_sparklers": {
+            "id": 15,
+            "type": 5,
+            "name": "Explosparklers",
+            "description": "Exploding Sparklers."
+        },
+         "explorockets": {
+            "id": 16,
+            "type": 5,
+            "name": "Challenger",
+            "description": "toosoon."
+        },
+         "explocrackers": {
+            "id": 17,
+            "type": 5,
+            "name": "Explocrackers",
+            "description": "Hurt you.  Hurt me."
+        }
+    }]
+}
+
+
+

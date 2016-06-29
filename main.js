@@ -80,13 +80,24 @@ var getProducts = function() {
 };
 
 var loadProducts = function(anArgument) {
+	$(outputEl).empty();
 	$.each(anArgument, function(thing) {
 		var currentThing = anArgument[thing];
 		$.each(currentThing, function(otherThing) {
 			$.each(currentThing[otherThing], function(otherOther) {
 					var thisThing = currentThing[otherThing][otherOther]
-					if (thisThing.type == typeSelect) {
-						
+					if (thisThing.type == typeSelect) { 
+						var newDiv = document.createElement("div");
+						newDiv.setAttribute("class", "col-xs-4");
+						var newP = document.createElement("p");
+						newP.innerText = thisThing.name;
+
+						var newDescrip = document.createElement("p");
+						newDescrip.innerText = thisThing.description;
+
+						newDiv.appendChild(newP);
+						newDiv.appendChild(newDescrip);
+						$(outputEl).append(newDiv);
 					}
 				})
 			})
